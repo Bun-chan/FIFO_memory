@@ -1,0 +1,102 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MSEE/5361/Week2/Assignment5_VHDLFIFO
+Eaac2m2h2_tb
+Z1 w1668226718
+Z2 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z3 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z7 8D:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2_tb.vhdp
+Z8 FD:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2_tb.vhdp
+l0
+L50 1
+V0O<U1@gLO;ed?HG2<nI>@2
+!s100 beO@c39B]_]0E@4d3EKgB1
+Z9 OV;C;2020.1;71
+32
+Z10 !s110 1668229425
+!i10b 1
+Z11 !s108 1668229425.000000
+Z12 !s90 -reportprogress|300|-work|work|D:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2_tb.vhdp|
+!s107 D:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2_tb.vhdp|
+!i113 1
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 aac2m2h2_tb 0 22 0O<U1@gLO;ed?HG2<nI>@2
+!i122 1
+l140
+L58 226
+VA3;Cj=YYk47ok_nN4OEU33
+!s100 MFoH^]R5YOknG=aRF?A[20
+R9
+!i119 1
+32
+R10
+!i10b 1
+R11
+R12
+Z15 !s107 D:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2_tb.vhdp|
+!i113 1
+R13
+R14
+Efifo_memory
+Z16 w1668229383
+R4
+R5
+R6
+!i122 0
+R0
+Z17 8D:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2.vhd
+Z18 FD:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2.vhd
+l0
+L5 1
+VL[JVjZbAYmE>^=a_F1U=a3
+!s100 0PAhTG6<F3eJT?mPk<g]?0
+R9
+31
+Z19 !s110 1668229416
+!i10b 1
+Z20 !s108 1668229416.000000
+Z21 !s90 -reportprogress|300|-93|-work|work|D:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2.vhd|
+Z22 !s107 D:/MSEE/5361/Week2/Assignment5_VHDLFIFO/AAC2M2H2.vhd|
+!i113 1
+Z23 o-93 -work work
+R14
+Artl
+R4
+R5
+R6
+DEx4 work 11 fifo_memory 0 22 L[JVjZbAYmE>^=a_F1U=a3
+!i122 0
+l24
+L16 48
+VY=m<Ga[TLk<YdN=ibEF3Y1
+!s100 ^MDk15^?dI=0Nm<]I7mAK1
+R9
+31
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R23
+R14

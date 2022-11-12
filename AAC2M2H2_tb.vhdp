@@ -87,7 +87,7 @@ architecture behavioral of AAC2M2H2_tb is
 -- Component declarations
 ----------------------------------------------------------------------
 -- Adder
-component FIFO8x9 
+component FIFO_Memory 
 	port(
     clk:		in std_logic;
     rst:        in std_logic;
@@ -142,7 +142,7 @@ begin
 -- Component instances
 ----------------------------------------------------------------------
 -- FIFO8x9 
-FIFO_test : FIFO8x9 
+FIFO_test : FIFO_Memory 
     port map( 
         -- Inputs
         clk => clk_tb,
